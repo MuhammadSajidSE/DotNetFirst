@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\newrepos\\college_Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6786F0ED-FE39-4235-9EC5-9D5805BF45FD}|college_Application\\college_Application.csproj|c:\\users\\administrator\\source\\newrepos\\college_application\\college_application\\college_application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6786F0ED-FE39-4235-9EC5-9D5805BF45FD}|college_Application\\college_Application.csproj|solutionrelative:college_application\\college_application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786F0ED-FE39-4235-9EC5-9D5805BF45FD}|college_Application\\college_Application.csproj|c:\\users\\administrator\\source\\newrepos\\college_application\\college_application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6786F0ED-FE39-4235-9EC5-9D5805BF45FD}|college_Application\\college_Application.csproj|solutionrelative:college_application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786F0ED-FE39-4235-9EC5-9D5805BF45FD}|college_Application\\college_Application.csproj|c:\\users\\administrator\\source\\newrepos\\college_application\\college_application\\college_application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6786F0ED-FE39-4235-9EC5-9D5805BF45FD}|college_Application\\college_Application.csproj|solutionrelative:college_application\\college_application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786F0ED-FE39-4235-9EC5-9D5805BF45FD}|college_Application\\college_Application.csproj|c:\\users\\administrator\\source\\newrepos\\college_application\\college_application\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6786F0ED-FE39-4235-9EC5-9D5805BF45FD}|college_Application\\college_Application.csproj|solutionrelative:college_application\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786F0ED-FE39-4235-9EC5-9D5805BF45FD}|college_Application\\college_Application.csproj|c:\\users\\administrator\\source\\newrepos\\college_application\\college_application\\models\\patientdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786F0ED-FE39-4235-9EC5-9D5805BF45FD}|college_Application\\college_Application.csproj|solutionrelative:college_application\\models\\patientdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786F0ED-FE39-4235-9EC5-9D5805BF45FD}|college_Application\\college_Application.csproj|c:\\users\\administrator\\source\\newrepos\\college_application\\college_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786F0ED-FE39-4235-9EC5-9D5805BF45FD}|college_Application\\college_Application.csproj|solutionrelative:college_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786F0ED-FE39-4235-9EC5-9D5805BF45FD}|college_Application\\college_Application.csproj|c:\\users\\administrator\\source\\newrepos\\college_application\\college_application\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6786F0ED-FE39-4235-9EC5-9D5805BF45FD}|college_Application\\college_Application.csproj|solutionrelative:college_application\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786F0ED-FE39-4235-9EC5-9D5805BF45FD}|college_Application\\college_Application.csproj|c:\\users\\administrator\\source\\newrepos\\college_application\\college_application\\controllers\\loggercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786F0ED-FE39-4235-9EC5-9D5805BF45FD}|college_Application\\college_Application.csproj|solutionrelative:college_application\\controllers\\loggercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\newrepos\\college_Application\\college_Application\\Program.cs",
+              "RelativeDocumentMoniker": "college_Application\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\newrepos\\college_Application\\college_Application\\Program.cs",
+              "RelativeToolTip": "college_Application\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:43:50.599Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\newrepos\\college_Application\\college_Application\\Models\\PatientDTOs.cs",
+              "RelativeDocumentMoniker": "college_Application\\Models\\PatientDTOs.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\newrepos\\college_Application\\college_Application\\Models\\PatientDTOs.cs",
+              "RelativeToolTip": "college_Application\\Models\\PatientDTOs.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:47:29.896Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "college_Application",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\newrepos\\college_Application\\college_Application\\college_Application.csproj",
+              "RelativeDocumentMoniker": "college_Application\\college_Application.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\newrepos\\college_Application\\college_Application\\college_Application.csproj",
+              "RelativeToolTip": "college_Application\\college_Application.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T10:27:35.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\newrepos\\college_Application\\college_Application\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "college_Application\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\newrepos\\college_Application\\college_Application\\appsettings.Development.json",
+              "RelativeToolTip": "college_Application\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T04:59:55.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\newrepos\\college_Application\\college_Application\\log4net.config",
+              "RelativeDocumentMoniker": "college_Application\\log4net.config",
+              "ToolTip": "C:\\Users\\Administrator\\source\\newrepos\\college_Application\\college_Application\\log4net.config",
+              "RelativeToolTip": "college_Application\\log4net.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-17T19:49:22.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "college_Application",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\newrepos\\college_Application\\college_Application\\college_Application.csproj",
+              "RelativeDocumentMoniker": "college_Application\\college_Application.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\newrepos\\college_Application\\college_Application\\college_Application.csproj",
+              "RelativeToolTip": "college_Application\\college_Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T19:06:51.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoggerController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\newrepos\\college_Application\\college_Application\\Controllers\\LoggerController.cs",
+              "RelativeDocumentMoniker": "college_Application\\Controllers\\LoggerController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\newrepos\\college_Application\\college_Application\\Controllers\\LoggerController.cs",
+              "RelativeToolTip": "college_Application\\Controllers\\LoggerController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:53:46.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\newrepos\\college_Application\\college_Application\\appsettings.json",
+              "RelativeDocumentMoniker": "college_Application\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\newrepos\\college_Application\\college_Application\\appsettings.json",
+              "RelativeToolTip": "college_Application\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T17:40:45.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

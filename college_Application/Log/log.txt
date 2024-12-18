@@ -1,0 +1,6 @@
+2024-12-18 11:05:13,911 [.NET TP Worker] TRACE college_Application.Controllers.LoggerController - I am Log Trace
+2024-12-18 11:05:13,930 [.NET TP Worker] DEBUG college_Application.Controllers.LoggerController - I am Log debug
+2024-12-18 11:05:13,936 [.NET TP Worker] INFO  college_Application.Controllers.LoggerController - I am information log
+2024-12-18 11:05:13,944 [.NET TP Worker] WARN  college_Application.Controllers.LoggerController - I am Warning log
+2024-12-18 11:05:13,949 [.NET TP Worker] ERROR college_Application.Controllers.LoggerController - I am Error log
+2024-12-18 11:05:13,958 [.NET TP Worker] FATAL college_Application.Controllers.LoggerController - I am critical log
